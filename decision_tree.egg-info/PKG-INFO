@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: decision-tree
+Version: 0.0.1
+Summary: A simple demo of decision_tree including ID3 and C4.5.
+Home-page: https://github.com/Taylor00225/decision_tree
+Author: Taylor00225
+Author-email: 478793660@qq.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+
+UNKNOWN
+
