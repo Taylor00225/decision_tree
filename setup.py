@@ -13,6 +13,7 @@ setup(
     install_requires=[
         "pandas>=1.5.2",
         "numpy>=1.23.5",
+        "scikit-learn>=1.1.3",
         "openpyxl>=3.0.10"
     ]
 )
